@@ -1,2 +1,1 @@
-# hopr-website
-Website of HOPR
+### This project moved to https://github.com/hoprnet
