@@ -1,1 +1,2 @@
-### This project moved to https://github.com/hoprnet
+The HOPR code now lives as its own GitHub organization on http://github.com/hoprnet
+---
